@@ -1,0 +1,28 @@
+.logo
+{
+	margin-top:-50px;
+}
+
+.logo .title
+{
+	font-size:67px;
+	color:white;
+}
+
+.logo .subtitle
+{
+	font-size:15px;
+	color:white;
+}
+
+.error-message
+{
+	color:white;
+	font-size:17px;
+	font-weight:bold;
+}
+
+.loginfooter a
+{
+	color:white;
+}
